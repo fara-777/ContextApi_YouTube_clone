@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(24, 24, 24);
+  color: #fff;
+}
+input {
+  background-color: rgb(24, 24, 24);
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 2px 5px;
+  outline: none;
+  width: 100%;
+}
+
+.search {
+  color: grey;
+  font-size: 20px;
+  margin: 5px 0 0 5px;
+}
+form {
+  display: flex;
+}
+
+.videos {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minMax(380px, 1fr));
+  justify-content: space-between;
+  gap: 50px;
+  padding: 30px;
+  cursor: pointer;
+}
