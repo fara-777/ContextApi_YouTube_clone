@@ -46,8 +46,8 @@ This application uses the RapidAPI to fetch video details, comments, and related
 
 ## screenShot
 
-[](/src/assets/screenShot.jpg)
+<img src="/src/assets/screenShot.jpg" />
 
 ## screenGif
 
-[](/src/assets/screen.gif)
+<img src="/src/assets/screen.gif"/>
