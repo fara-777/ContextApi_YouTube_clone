@@ -14,11 +14,6 @@ Utilize Tailwind CSS for styling and responsive design
 Use Millify to format numerical values such as likes and views
 Make API requests using Axios
 
-## Installation
-
-Clone the repository: git clone https://github.com/your-username/your-repo.git
-Navigate to the project directory: cd your-repo
-Install the dependencies: npm install
 
 ## Usage
 
